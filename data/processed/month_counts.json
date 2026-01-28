@@ -1,0 +1,62 @@
+[
+  {
+    "month": "1月",
+    "month_num": 1,
+    "count": 5266
+  },
+  {
+    "month": "2月",
+    "month_num": 2,
+    "count": 2482
+  },
+  {
+    "month": "3月",
+    "month_num": 3,
+    "count": 3413
+  },
+  {
+    "month": "4月",
+    "month_num": 4,
+    "count": 3130
+  },
+  {
+    "month": "5月",
+    "month_num": 5,
+    "count": 3524
+  },
+  {
+    "month": "6月",
+    "month_num": 6,
+    "count": 3025
+  },
+  {
+    "month": "7月",
+    "month_num": 7,
+    "count": 3264
+  },
+  {
+    "month": "8月",
+    "month_num": 8,
+    "count": 3379
+  },
+  {
+    "month": "9月",
+    "month_num": 9,
+    "count": 3162
+  },
+  {
+    "month": "10月",
+    "month_num": 10,
+    "count": 3421
+  },
+  {
+    "month": "11月",
+    "month_num": 11,
+    "count": 3033
+  },
+  {
+    "month": "12月",
+    "month_num": 12,
+    "count": 3066
+  }
+]

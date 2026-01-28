@@ -15,5 +15,5 @@ __pycache__/
 venv/
 env/
 
-# 忽略数据处理结果文件
-data/processed/
+# 忽略数据处理结果文件（如果需要）
+# data/processed/
